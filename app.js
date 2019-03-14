@@ -39,6 +39,23 @@ function outer() {
   inner();
 }
 outer();
+/*
+// a super simple example
+
+(Example)
+
+function outer() {
+   var b = 10;
+   function inner() {
+
+         var a = 20;
+         console.log(a+b);
+    }
+   return inner;
+}
+*/
+
+
 
 //what is the output? ans is string
 
