@@ -44,4 +44,5 @@ outer();
 
 console.log(typeof typeof 1);
 // or console.log(typeof typeof 1);
+
 */
